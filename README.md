@@ -21,10 +21,12 @@ Hi, I'm **Milad Golfam**, a passionate software engineer, CTO at Safarmarket, an
   - Familiar with: `AI Agents`, `Metaheuristics`, `Deep Learning`
 
 - **📚 Areas of Interest:**
-  - Quantum Computing
+  - webdevelopment
+  - SRE
+  - software engineering
+  - Optimization Algorithms
   - Compiler Development
   - CPU/GPU Architecture
-  - Optimization Algorithms
 
 - **🌐 Web & Systems Development:**
   - Building high-performance apps with scalable architecture.
