@@ -28,33 +28,15 @@ Hi, I'm **Milad Golfam**, a passionate software engineer, CTO at Safarmarket, an
 
 - **🌐 Web & Systems Development:**
   - Building high-performance apps with scalable architecture.
-  - Creating modern web platforms and plugins.
+  - Creating modern web platforms and plugins
 
 ---
-
-## 📂 **Projects**
-
-### 1. **[Plant Competition Optimization](https://github.com/mgolfam/plant-competition-optimization)**
-   - Implemented metaheuristic optimization algorithms in Python.
-   - Benchmark testing with advanced configurations.
-
-### 2. **SpaceHuggers Game**
-   - Forked and improved gameplay in the [SpaceHuggers project](https://github.com/KilledByAPixel/SpaceHuggers).
-   - Added advanced features for immersive gaming.
-
-### 3. **[VS Code Extension: gcode-master](https://github.com/mgolfam/gcode-master)**
-   - A sidebar extension to browse workspace files in VS Code.
-
-### 4. **Next.js Analytics**
-   - Integrated state management with analytics tracking.
-   - Debugged and optimized SPA script performance.
-
+📂 Projects
+- safarmarket.com
 ---
 
 ## 🏆 **Achievements**
 
-- Published research papers on optimization and AI.
-- Developed innovative SMS management systems.
 - Led the development of scalable, robust systems at Safarmarket.
 
 ---
