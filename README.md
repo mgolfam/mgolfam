@@ -64,9 +64,9 @@ Hi, I'm **Milad Golfam**, a passionate software engineer, CTO at Safarmarket, an
 | **Category**    | **Technologies**                   |
 |------------------|------------------------------------|
 | Programming      | Go, Python, Java, C, JavaScript   |
-| Frameworks       | Next.js, Flask, .NET              |
+| Frameworks       | Springboot, Next.js, Flask,       |
 | Databases        | PostgreSQL, MariaDB, MSSQL        |
-| Tools/Platforms  | Docker, Nginx, Fedora Linux       |
+| Tools/Platforms  | Docker, Nginx, Ubuntu Fedora Linux|
 | Specializations  | AI/ML, Compiler Design, Quantum Computing |
 
 ---
@@ -80,8 +80,7 @@ Hi, I'm **Milad Golfam**, a passionate software engineer, CTO at Safarmarket, an
 
 ## 📩 **Get in Touch**
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 Website: [YourPortfolio.com](https://github.com/mgolfam)
-- 🐦 Twitter: [@MiladGolfam](https://twitter.com/)
+- 🌐 Website: [migolfam.com](https://github.com/mgolfam)
+- 🐦 Twitter: [@@moondeve](https://x.com/moondeve)
 
 ---
