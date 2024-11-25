@@ -80,7 +80,7 @@ Hi, I'm **Milad Golfam**, a passionate software engineer, CTO at Safarmarket, an
 
 ## 📩 **Get in Touch**
 
-- 🌐 Website: [migolfam.com](https://github.com/mgolfam)
-- 🐦 Twitter: [@@moondeve](https://x.com/moondeve)
+- 🌐 Website: [migolfam.com](https://migolfam.com)
+- 🐦 Twitter: [@moondeve](https://x.com/moondeve)
 
 ---
