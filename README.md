@@ -16,7 +16,7 @@ Hi, I'm **Milad Golfam**, a passionate software engineer, CTO at Safarmarket, an
 ## 🔧 **What I Do**
 
 - **💻 Programming Expertise:**
-  - Proficient in: `Go`, `Python`, `.NET`, `C#`
+  - Proficient in: `Go`, `Python`, `java`, `C`
   - Experienced with: `JavaScript`, `Next.js`, `Flask`
   - Familiar with: `AI Agents`, `Metaheuristics`, `Deep Learning`
 
@@ -63,7 +63,7 @@ Hi, I'm **Milad Golfam**, a passionate software engineer, CTO at Safarmarket, an
 
 | **Category**    | **Technologies**                   |
 |------------------|------------------------------------|
-| Programming      | Go, Python, C#, JavaScript        |
+| Programming      | Go, Python, Java, C, JavaScript   |
 | Frameworks       | Next.js, Flask, .NET              |
 | Databases        | PostgreSQL, MariaDB, MSSQL        |
 | Tools/Platforms  | Docker, Nginx, Fedora Linux       |
