@@ -2,8 +2,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/mgolfam?style=social)](https://github.com/mgolfam)
 [![GitHub stars](https://img.shields.io/github/stars/mgolfam?style=social)](https://github.com/mgolfam)
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Visit%20Website-blue)](https://github.com/mgolfam)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/miladgolfam)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Visit%20Website-blue)](https://migolfam.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/milad-g-4b315a145/)
 
 ---
 
