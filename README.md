@@ -1,70 +1,24 @@
-# 🚀 **Milad Golfam's GitHub Portfolio**
+## Milad Golfam - Senior Backend Engineer (Java / Go)
 
-[![GitHub followers](https://img.shields.io/github/followers/mgolfam?style=social)](https://github.com/mgolfam)
-[![GitHub stars](https://img.shields.io/github/stars/mgolfam?style=social)](https://github.com/mgolfam)
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Visit%20Website-blue)](https://migolfam.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/milad-g-4b315a145/)
+I build backend systems that stay fast under heavy traffic. For the last 7 years I have been CTO of
+[Safarmarket](https://safarmarket.com), an online travel marketplace for flights, hotels and packages, where I designed
+the microservices platform, its caching and load balancing, and its integrations with 20+ supplier APIs.
 
----
+### Stack
 
-## 👋 **Welcome to My GitHub!**
+- **Languages:** Java, Go (primary) - Python for scripting and tooling
+- **Frameworks:** Spring Boot, Gin, Echo
+- **Data:** PostgreSQL, MariaDB, MongoDB, Redis, Elasticsearch
+- **Infrastructure:** Linux (LPIC-3), Docker, Kubernetes, Nginx, HAProxy, GitLab CI/CD, Prometheus, Grafana
 
-Hi, I'm **Milad Golfam**, a passionate software engineer, CTO at Safarmarket, and enthusiast in **Quantum Computing**, **AI/ML**, **Compiler Design**, and **Digital System Architecture**. I love solving complex problems and building scalable, innovative solutions.
+### Projects
 
----
+| Project | What it is |
+|---|---|
+| [gogutils](https://github.com/mgolfam/gogutils) | Go utility library for backend work: HTTP client, crypto, compression, structured logging. Tested and documented. |
+| [go-redis-dump](https://github.com/mgolfam/go-redis-dump) | CLI that exports Redis data to JSON, CSV or Redis-readable format. |
+| [metahuerestic-loadbalancer](https://github.com/mgolfam/metahuerestic-loadbalancer) | Research: metaheuristic algorithms for load balancing in cloud simulations (Python). |
 
-## 🔧 **What I Do**
+### Contact
 
-- **💻 Programming Expertise:**
-  - Proficient in: `Go`, `Python`, `java`, `C`
-  - Experienced with: `JavaScript`, `Next.js`, `Flask`
-  - Familiar with: `AI Agents`, `Metaheuristics`, `Deep Learning`
-
-- **📚 Areas of Interest:**
-  - webdevelopment
-  - SRE
-  - software engineering
-  - Optimization Algorithms
-  - Compiler Development
-  - CPU/GPU Architecture
-
-- **🌐 Web & Systems Development:**
-  - Building high-performance apps with scalable architecture.
-  - Creating modern web platforms and plugins
-
----
-📂 Projects
-- safarmarket.com
----
-
-## 🏆 **Achievements**
-
-- Led the development of scalable, robust systems at Safarmarket.
-
----
-
-## 🛠 **Skills & Tools**
-
-| **Category**    | **Technologies**                   |
-|------------------|------------------------------------|
-| Programming      | Go, Python, Java, C, JavaScript   |
-| Frameworks       | Springboot, Next.js, Flask,       |
-| Databases        | PostgreSQL, MariaDB, MSSQL        |
-| Tools/Platforms  | Docker, Nginx, Ubuntu Fedora Linux|
-| Specializations  | AI/ML, Compiler Design, Quantum Computing |
-
----
-
-## 📈 **Stats**
-
-![Milad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mgolfam&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mgolfam&layout=compact&theme=radical)
-
----
-
-## 📩 **Get in Touch**
-
-- 🌐 Website: [migolfam.com](https://migolfam.com)
-- 🐦 Twitter: [@moondeve](https://x.com/moondeve)
-
----
+[LinkedIn](https://www.linkedin.com/in/milad-g-4b315a145/) - milad.golfam@gmail.com - [migolfam.com](https://migolfam.com)
