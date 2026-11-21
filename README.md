@@ -17,7 +17,10 @@ the microservices platform, its caching and load balancing, and its integrations
 |---|---|
 | [gogutils](https://github.com/mgolfam/gogutils) | Go utility library for backend work: HTTP client, crypto, compression, structured logging. Tested and documented. |
 | [go-redis-dump](https://github.com/mgolfam/go-redis-dump) | CLI that exports Redis data to JSON, CSV or Redis-readable format. |
+| [go.tools](https://github.com/mgolfam/go.tools) | Go library of observability, metrics, tracing and reliability patterns for high-load systems. |
+| [py-cam-qr](https://github.com/mgolfam/py-cam-qr) | Desktop webcam QR code scanner (Python, OpenCV, Tkinter). |
 | [metahuerestic-loadbalancer](https://github.com/mgolfam/metahuerestic-loadbalancer) | Research: metaheuristic algorithms for load balancing in cloud simulations (Python). |
+| [MSc-Thesis](https://github.com/mgolfam/MSc-Thesis) | Research: robust image watermarking using the Arnold cat map (MATLAB). |
 
 ### Contact
 
