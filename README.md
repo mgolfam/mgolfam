@@ -1,6 +1,6 @@
 ## Milad Golfam - Senior Backend Engineer (Java / Go)
 
-I build backend systems that stay fast under heavy traffic. For the last 7 years I have been CTO of
+I build backend systems that stay fast under heavy traffic. Since June 2019 I have been CTO of
 [Safarmarket](https://safarmarket.com), an online travel marketplace for flights, hotels and packages, where I designed
 the microservices platform, its caching and load balancing, and its integrations with 20+ supplier APIs.
 
